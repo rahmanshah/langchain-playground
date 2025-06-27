@@ -1,0 +1,12 @@
+langchain
+langchain_groq
+langchain_experimental
+langchainhub
+pinecone-client
+python-dotenv
+tiktoken
+docx2txt
+pypdf
+requests
+numpy
+pandas
