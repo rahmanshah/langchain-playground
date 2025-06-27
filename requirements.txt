@@ -10,3 +10,4 @@ pypdf
 requests
 numpy
 pandas
+ipykernel

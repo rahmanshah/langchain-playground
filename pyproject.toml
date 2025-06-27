@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "docx2txt>=0.9",
+    "ipykernel>=6.29.5",
     "langchain>=0.3.26",
     "langchain-experimental>=0.3.4",
     "langchain-groq>=0.3.4",
