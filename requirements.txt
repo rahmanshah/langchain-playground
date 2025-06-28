@@ -13,4 +13,5 @@ pandas
 ipykernel
 duckduckgo-search
 wikipedia
-pinecone-client
+pinecone
+langchain_ollama
