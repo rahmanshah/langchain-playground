@@ -12,3 +12,4 @@ numpy
 pandas
 ipykernel
 duckduckgo-search
+wikipedia
