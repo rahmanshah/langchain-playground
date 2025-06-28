@@ -13,3 +13,4 @@ pandas
 ipykernel
 duckduckgo-search
 wikipedia
+pinecone-client
