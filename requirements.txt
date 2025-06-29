@@ -17,3 +17,5 @@ pinecone
 pinecone-client
 langchain_ollama
 langchain_pinecone
+pypdf
+docx2txt
