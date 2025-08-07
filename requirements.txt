@@ -18,3 +18,4 @@ pinecone-client
 langchain_ollama
 langchain_pinecone
 chromadb
+openai
